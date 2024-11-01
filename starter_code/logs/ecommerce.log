@@ -661,3 +661,26 @@ com.auth0.jwt.exceptions.SignatureVerificationException: The Token's Signature r
 	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.37.jar:9.0.37]
 	at java.lang.Thread.run(Thread.java:834) [?:?]
 2024-11-01 12:28:57,244 INFO c.u.j.c.e.s.ItemService [http-nio-8080-exec-4] Get Items success.
+2024-11-01 16:14:50,354 INFO c.u.j.c.e.EcommerceApplication [main] Starting EcommerceApplication on DESKTOP-PCOI0LP with PID 8592 (C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code\target\classes started by DELL in C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code)
+2024-11-01 16:14:50,370 INFO c.u.j.c.e.EcommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-11-01 16:15:00,857 INFO c.u.j.c.e.EcommerceApplication [main] Started EcommerceApplication in 11.18 seconds (JVM running for 19.687)
+2024-11-01 16:15:00,991 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-1] Username = dungnt187
+2024-11-01 16:15:01,260 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-1] Create User success
+2024-11-01 16:15:18,498 INFO c.u.j.c.e.s.CartService [http-nio-8080-exec-10] Add item to cart success
+2024-11-01 16:15:24,669 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-8] User exist.
+2024-11-01 16:15:27,107 INFO c.u.j.c.e.s.ItemService [http-nio-8080-exec-3] Get item success.
+2024-11-01 16:15:30,386 INFO c.u.j.c.e.s.ItemService [http-nio-8080-exec-4] Get Items success.
+2024-11-01 16:15:37,532 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-6] Username = dungnt
+2024-11-01 16:15:37,632 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-6] Create User success
+2024-11-01 16:15:43,272 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-5] Username = dungnt2
+2024-11-01 16:15:43,377 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-5] Create User success
+2024-11-01 16:15:46,765 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-2] Username = dungnt3
+2024-11-01 16:15:46,859 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-2] Create User success
+2024-11-01 16:16:26,304 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-9] Username = dungnt4
+2024-11-01 16:16:26,407 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-9] Create User success
+2024-11-01 16:16:29,220 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-10] Username = dungnt5
+2024-11-01 16:16:29,317 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-10] Create User success
+2024-11-01 16:16:36,747 INFO c.u.j.c.e.s.CartService [http-nio-8080-exec-8] Add item to cart success
+2024-11-01 16:16:42,856 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-4] User exist.
+2024-11-01 16:16:45,098 INFO c.u.j.c.e.s.ItemService [http-nio-8080-exec-6] Get item success.
+2024-11-01 16:16:47,215 INFO c.u.j.c.e.s.ItemService [http-nio-8080-exec-5] Get Items success.
