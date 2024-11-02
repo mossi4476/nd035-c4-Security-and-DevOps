@@ -1,10 +1,11 @@
 package com.udacity.jdnd.course4.ecommerce.security;
 
-import com.udacity.jdnd.course4.ecommerce.services.DummyData;
 import com.udacity.jdnd.course4.ecommerce.entities.User;
 import com.udacity.jdnd.course4.ecommerce.repository.UserRepository;
+import com.udacity.jdnd.course4.ecommerce.services.DummyData;
 import org.junit.Before;
 import org.junit.Test;
+import org.mockito.Mockito;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 

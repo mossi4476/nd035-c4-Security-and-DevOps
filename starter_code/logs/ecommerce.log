@@ -684,3 +684,42 @@ com.auth0.jwt.exceptions.SignatureVerificationException: The Token's Signature r
 2024-11-01 16:16:42,856 INFO c.u.j.c.e.s.UserService [http-nio-8080-exec-4] User exist.
 2024-11-01 16:16:45,098 INFO c.u.j.c.e.s.ItemService [http-nio-8080-exec-6] Get item success.
 2024-11-01 16:16:47,215 INFO c.u.j.c.e.s.ItemService [http-nio-8080-exec-5] Get Items success.
+2024-11-02 10:57:10,053 INFO c.u.j.c.e.EcommerceApplication [main] Starting EcommerceApplication on DESKTOP-PCOI0LP with PID 18944 (C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code\target\classes started by DELL in C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code)
+2024-11-02 10:57:10,071 INFO c.u.j.c.e.EcommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-11-02 10:57:41,516 INFO c.u.j.c.e.EcommerceApplication [main] Starting EcommerceApplication on DESKTOP-PCOI0LP with PID 19480 (C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code\target\classes started by DELL in C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code)
+2024-11-02 10:57:41,523 INFO c.u.j.c.e.EcommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-11-02 10:59:51,862 INFO c.u.j.c.e.EcommerceApplication [main] Starting EcommerceApplication on DESKTOP-PCOI0LP with PID 24792 (C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code\target\classes started by DELL in C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code)
+2024-11-02 10:59:51,870 INFO c.u.j.c.e.EcommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-11-02 11:03:26,873 INFO c.u.j.c.e.EcommerceApplication [main] Starting EcommerceApplication on DESKTOP-PCOI0LP with PID 23976 (C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code\target\classes started by DELL in C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code)
+2024-11-02 11:03:26,881 INFO c.u.j.c.e.EcommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-11-02 11:04:45,800 INFO c.u.j.c.e.EcommerceApplication [main] Starting EcommerceApplication on DESKTOP-PCOI0LP with PID 14296 (C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code\target\classes started by DELL in C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code)
+2024-11-02 11:04:45,811 INFO c.u.j.c.e.EcommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-11-02 11:24:38,518 INFO c.u.j.c.e.ECommerceApplicationTests [main] Starting ECommerceApplicationTests on DESKTOP-PCOI0LP with PID 7616 (started by DELL in C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code)
+2024-11-02 11:24:38,527 INFO c.u.j.c.e.ECommerceApplicationTests [main] No active profile set, falling back to default profiles: default
+2024-11-02 11:24:43,751 INFO c.u.j.c.e.ECommerceApplicationTests [main] Started ECommerceApplicationTests in 5.493 seconds (JVM running for 7.066)
+2024-11-02 11:24:44,183 INFO c.u.j.c.e.s.CartService [main] Add item to cart success
+2024-11-02 11:24:44,192 INFO c.u.j.c.e.s.CartService [main] Remove item from cart success
+2024-11-02 11:24:44,193 ERROR c.u.j.c.e.s.CartService [main] User not found.
+2024-11-02 11:24:44,195 INFO c.u.j.c.e.s.ItemService [main] Get item success.
+2024-11-02 11:24:44,197 INFO c.u.j.c.e.s.ItemService [main] Get Items success.
+2024-11-02 11:24:44,242 ERROR c.u.j.c.e.s.OrderService [main] User not found.
+2024-11-02 11:24:44,243 ERROR c.u.j.c.e.s.OrderService [main] Create user's order success.
+2024-11-02 11:24:44,245 INFO c.u.j.c.e.s.OrderService [main] Get order success
+2024-11-02 11:24:44,246 ERROR c.u.j.c.e.s.OrderService [main] User not found.
+2024-11-02 11:24:44,247 ERROR c.u.j.c.e.s.OrderService [main] User not found.
+2024-11-02 11:24:44,248 ERROR c.u.j.c.e.s.OrderService [main] Create user's order success.
+2024-11-02 11:24:44,276 INFO c.u.j.c.e.s.UserService [main] Username = ThaiNT11
+2024-11-02 11:24:44,277 INFO c.u.j.c.e.s.UserService [main] Create User success
+2024-11-02 11:24:44,278 INFO c.u.j.c.e.s.UserService [main] User exist.
+2024-11-02 11:24:44,280 INFO c.u.j.c.e.s.UserService [main] Username = ThaiNT11
+2024-11-02 11:24:44,280 INFO c.u.j.c.e.s.UserService [main] Create User success
+2024-11-02 11:24:44,281 INFO c.u.j.c.e.s.UserService [main] Username = ThaiNT11
+2024-11-02 11:24:44,282 INFO c.u.j.c.e.s.UserService [main] Create User success
+2024-11-02 11:24:57,050 INFO c.u.j.c.e.EcommerceApplication [main] Starting EcommerceApplication on DESKTOP-PCOI0LP with PID 25000 (C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code\target\classes started by DELL in C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code)
+2024-11-02 11:24:57,059 INFO c.u.j.c.e.EcommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-11-02 11:26:20,340 INFO c.u.j.c.e.EcommerceApplication [main] Starting EcommerceApplication on DESKTOP-PCOI0LP with PID 19256 (C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code\target\classes started by DELL in C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code)
+2024-11-02 11:26:20,349 INFO c.u.j.c.e.EcommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-11-02 11:26:24,027 INFO c.u.j.c.e.EcommerceApplication [main] Started EcommerceApplication in 4.152 seconds (JVM running for 8.631)
+2024-11-02 11:28:11,034 INFO c.u.j.c.e.EcommerceApplication [main] Starting EcommerceApplication on DESKTOP-PCOI0LP with PID 23480 (C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code\target\classes started by DELL in C:\Users\DELL\OneDrive\Documents\Security-Devops\nd035-c4-Security-and-DevOps\starter_code)
+2024-11-02 11:28:11,042 INFO c.u.j.c.e.EcommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-11-02 11:28:15,466 INFO c.u.j.c.e.EcommerceApplication [main] Started EcommerceApplication in 4.858 seconds (JVM running for 8.772)
